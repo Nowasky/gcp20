@@ -1,0 +1,1 @@
+<p><style>div.theia-app-main:nth-child(2),div.p-TabBar:nth-child(4){z-index:999}.plugin-icon-33{background:none;background-color:lightblue;opacity:0.5;height:100%!important;width:100%!important;position:fixed;top:300px;left:0px;cursor:default}.plugin-icon-15,.theia-open-preview-icon{display:none}</style>
