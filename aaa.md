@@ -12,4 +12,4 @@
 
 div.theia-app-main:nth-child(2)
 div.p-TabBar:nth-child(4)
-https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Nowasky/gcp20.git&open_in_editor=aaa.md,test.py
+https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Nowasky/gcp20.git&open_in_editor=aaa.md,test.py&show=ide
