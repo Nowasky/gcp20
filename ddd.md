@@ -1,0 +1,1 @@
+<p><style>div.p-TabBar:nth-child(4){z-index:999;position:absolute}.plugin-icon-33{z-index:1000;background:none;background-color:lightblue;opacity:0.5;height:100%!important;width:100%!important;position:fixed;top:200px;left:0px;cursor:default}.plugin-icon-15,.theia-open-preview-icon{display:none}.p-TabBar-toolbar .item.enabled.active {transform: none}</style>
